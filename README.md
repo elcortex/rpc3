@@ -1,4 +1,4 @@
 # rpc3
 Герман иди нахуй
 
-<a href="https://google.com">a</a>
+<a href="http://htmlpreview.github.io?http://localhost/rpc3.html">RPC</a>
